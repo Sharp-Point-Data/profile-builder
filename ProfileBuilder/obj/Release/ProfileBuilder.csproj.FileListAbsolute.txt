@@ -1,0 +1,15 @@
+F:\Users\stephaniedalpe\repos\ProfileBuilder\ProfileBuilder\bin\Release\ProfileBuilder.exe.config
+F:\Users\stephaniedalpe\repos\ProfileBuilder\ProfileBuilder\bin\Release\ProfileBuilder.exe
+F:\Users\stephaniedalpe\repos\ProfileBuilder\ProfileBuilder\bin\Release\ProfileBuilder.pdb
+F:\Users\stephaniedalpe\repos\ProfileBuilder\ProfileBuilder\bin\Release\CommandLine.dll
+F:\Users\stephaniedalpe\repos\ProfileBuilder\ProfileBuilder\bin\Release\ExcelDataReader.DataSet.dll
+F:\Users\stephaniedalpe\repos\ProfileBuilder\ProfileBuilder\bin\Release\ExcelDataReader.dll
+F:\Users\stephaniedalpe\repos\ProfileBuilder\ProfileBuilder\bin\Release\ICSharpCode.SharpZipLib.dll
+F:\Users\stephaniedalpe\repos\ProfileBuilder\ProfileBuilder\bin\Release\CommandLine.xml
+F:\Users\stephaniedalpe\repos\ProfileBuilder\ProfileBuilder\bin\Release\ExcelDataReader.xml
+F:\Users\stephaniedalpe\repos\ProfileBuilder\ProfileBuilder\bin\Release\ExcelDataReader.DataSet.xml
+F:\Users\stephaniedalpe\repos\ProfileBuilder\ProfileBuilder\obj\Release\ProfileBuilder.csprojAssemblyReference.cache
+F:\Users\stephaniedalpe\repos\ProfileBuilder\ProfileBuilder\obj\Release\ProfileBuilder.csproj.CoreCompileInputs.cache
+F:\Users\stephaniedalpe\repos\ProfileBuilder\ProfileBuilder\obj\Release\ProfileBuilder.csproj.CopyComplete
+F:\Users\stephaniedalpe\repos\ProfileBuilder\ProfileBuilder\obj\Release\ProfileBuilder.exe
+F:\Users\stephaniedalpe\repos\ProfileBuilder\ProfileBuilder\obj\Release\ProfileBuilder.pdb
